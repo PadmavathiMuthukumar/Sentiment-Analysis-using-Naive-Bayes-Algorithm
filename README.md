@@ -1,5 +1,6 @@
 # Sentiment-Analysis-using-Naive-Bayes-Algorithm
-
+## NAME: PADMAVATHI M
+## REGISTER NUMBER: 212223040141
 ## AIM:
 To develop a simple bilingual translation model that translates English sentences to French using TF-IDF vectorization and K-Nearest Neighbors (KNN) based on cosine similarity.
 
